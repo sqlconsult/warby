@@ -1,0 +1,9 @@
+2020-03-15 15:37:28.562 - controller.controller - INFO - <<<<< Starting >>>>>
+2020-03-15 15:37:28.565 - controller.controller - INFO - *,x,y,z
+2020-03-15 15:37:28.565 - controller.controller - INFO - a,*,*
+2020-03-15 15:37:28.565 - controller.controller - INFO - NO MATCH
+2020-03-15 15:37:28.565 - controller.controller - INFO - NO MATCH
+2020-03-15 15:37:28.565 - controller.controller - INFO - foo,bar,baz
+2020-03-15 15:37:28.566 - controller.controller - INFO - A,*,B,*,C
+2020-03-15 15:37:28.566 - controller.controller - INFO - NO MATCH
+2020-03-15 15:37:28.566 - controller.controller - INFO - <<<<< Done >>>>>

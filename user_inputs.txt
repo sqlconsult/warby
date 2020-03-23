@@ -1,0 +1,16 @@
+7
+*,b,*
+a,*,*
+*,*,c
+foo,bar,baz
+w,x,*,*
+*,x,y,z
+A,*,B,*,C
+7
+/w/x/y/z/
+a/b/c
+foo/
+foo/bar/
+foo/bar/baz/
+A/foo/B/bar/C
+A/foo/bar/B/baz/C
